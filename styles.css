@@ -1,3 +1,29 @@
+/*
+  =============================================================
+  Author: Julian Manders-Jones
+  Date: October 2024
+  Project: Binary Search Tree Visualiser
+  Repo: https://github.com/iteacher/bstvisualiser
+
+  Description: an interactive tool designed for learners, educators, and developers interested in deepening their understanding of binary search trees. This app offers a dynamic approach to studying BSTs by enabling users to visually interact with and manipulate the tree structure.
+  
+  © 2024 Julian Manders-Jones. All rights reserved.
+  
+  This file is part of Binary Search Tree Visualiser.
+
+  MIT License
+  You may obtain a copy of the License at [Link to LICENSE file]
+  
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  =============================================================
+*/
+
 /* Define CSS Variables in :root */
 /* Theme 1: Midnight Blue */
 :root {
