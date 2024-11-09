@@ -6,7 +6,7 @@ Date:  2024
 
 ![Screenshot of BST](images/ScreenshotOfBST.jpg)
    
-Welcome to the **Binary Search Tree (BST) Visualizer**, an interactive tool designed for learners, educators, and developers interested in deepening their understanding of binary search trees. This app offers a dynamic approach to studying BSTs by enabling users to visually interact with and manipulate the tree structure.
+Welcome to the **Binary Search Tree (BST) Visualiser**, an interactive tool designed for learners, educators, and developers interested in deepening their understanding of binary search trees. This app offers a dynamic approach to studying BSTs by enabling users to visually interact with and manipulate the tree structure.
 
 With this tool, users can perform operations like insertion, deletion, and traversal of nodes, exploring the nuanced mechanics of BSTs firsthand. The app’s range of features makes it adaptable to all levels of experience, from beginner to advanced.
 
@@ -32,7 +32,7 @@ With this tool, users can perform operations like insertion, deletion, and trave
 
 ## Download
 
-You can install the **Binary Search Tree Visualizer** on macOS. Download the **DMG file** [here](https://github.com/iteacher/bstvisualiser/releases/tag/v1.0.1), compatible with macOS 10.14 (Mojave) and above.
+You can install the **Binary Search Tree Visualiser** on macOS. Download the **DMG file** [here](https://github.com/iteacher/bstvisualiser/releases/tag/v1.0.1), compatible with macOS 10.14 (Mojave) and above.
 
 You can simply downlaod the source and run the index.html on any device.
 
@@ -49,7 +49,7 @@ You can simply downlaod the source and run the index.html on any device.
 
 ## Educational Value
 
-The Binary Search Tree Visualizer brings the complexities of BST operations to life, making it an invaluable tool for students and teachers. It offers hands-on, interactive ways to observe the tree’s behavior during insertions, deletions, and traversals, supporting a deeper, more intuitive understanding of data structures.
+The Binary Search Tree Visualiser brings the complexities of BST operations to life, making it an invaluable tool for students and teachers. It offers hands-on, interactive ways to observe the tree’s behavior during insertions, deletions, and traversals, supporting a deeper, more intuitive understanding of data structures.
 
 By using this tool, learners can gain insights into real-world applications of BSTs and practice fundamental computer science concepts in a highly visual way. This app is especially useful for:
 
