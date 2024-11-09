@@ -74,7 +74,4 @@ We welcome contributions from the community! Whether you're interested in expand
 - Enhanced animations or interaction effects
 - Localisation support for international users
 
----
-
 Thank you for exploring the Binary Search Tree Visualiser! We hope this app enhances your understanding and appreciation of BSTs. Download, explore the code, and feel free to contribute to make this educational tool even more powerful and accessible.
-# bstvisualiser2
