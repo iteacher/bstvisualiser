@@ -33,6 +33,8 @@ With this tool, users can perform operations like insertion, deletion, and trave
 
 You can install the **Binary Search Tree Visualizer** on macOS. Download the **DMG file** [here](https://github.com/iteacher/bstvisualiser/releases/tag/v1.0.1), compatible with macOS 10.14 (Mojave) and above.
 
+You can simply downlaod the source and run the index.html on any device.
+
 ### Installation Instructions
 
 1. **Download the DMG**: [Download here](https://github.com/iteacher/bstvisualiser/releases/tag/v1.0.1).
