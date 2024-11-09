@@ -4,6 +4,8 @@ Date:  2024
 
 # Binary Search Tree Visualiser
 
+Live demo:
+
 ![Screenshot of BST](images/ScreenshotOfBST.jpg)
    
 Welcome to the **Binary Search Tree (BST) Visualiser**, an interactive tool designed for learners, educators, and developers interested in deepening their understanding of binary search trees. This app offers a dynamic approach to studying BSTs by enabling users to visually interact with and manipulate the tree structure.
