@@ -17,7 +17,7 @@ With this tool, users can perform operations like insertion, deletion, and trave
 - **Step-by-Step Traversals**: Step through in-order, pre-order, and post-order traversals, observing the traversal path interactively.
 - **Step-by-Step Insertions & Deletions**: Break down complex tree operations by stepping through each change in the tree structure.
 - **Automatic Tree Creation**: Auto-generate trees of various sizes and configurations, perfect for quick demonstrations or random explorations.
-- **Visualize Large Trees**: Easily navigate and visualize large trees, making it possible to work with more complex datasets.
+- **Visualise Large Trees**: Easily navigate and visualise large trees, making it possible to work with more complex datasets.
 - **Multiple Data Types**: Support for both numerical and text-based lists, enhancing educational and practical applications.
 - **Pan and Zoom**: Use panning and zooming controls to explore the tree’s layout and focus on areas of interest.
 - **Smooth Animations and Highlights**: Key nodes are highlighted during each operation, with smooth transitions that make structural changes easy to follow.
@@ -26,8 +26,8 @@ With this tool, users can perform operations like insertion, deletion, and trave
 
 1. **Add Nodes**: Enter a list of values separated by commas in the input box and click "Add" to see the BST constructed with those values.
 2. **Delete Nodes**: Select a node for deletion, and the tree will rebalance accordingly.
-3. **Traverse**: Choose a traversal method (in-order, pre-order, post-order) to step through and visualize each traversal path.
-4. **Auto-Create Trees**: Use the randomization feature to automatically generate a tree. It’s a great way to explore different structures without manual input.
+3. **Traverse**: Choose a traversal method (in-order, pre-order, post-order) to step through and visualise each traversal path.
+4. **Auto-Create Trees**: Use the randomisation feature to automatically generate a tree. It’s a great way to explore different structures without manual input.
 5. **Adjust the View**: Use pan and zoom controls to navigate around large trees, so you can focus on specific areas without losing sight of the overall structure.
 
 ## Download
@@ -72,8 +72,8 @@ We welcome contributions from the community! Whether you're interested in expand
 
 - Additional tree operations like rotations (for balanced trees like AVL or Red-Black Trees)
 - Enhanced animations or interaction effects
-- Localization support for international users
+- Localisation support for international users
 
 ---
 
-Thank you for exploring the Binary Search Tree Visualizer! We hope this app enhances your understanding and appreciation of BSTs. Download, explore the code, and feel free to contribute to make this educational tool even more powerful and accessible.
+Thank you for exploring the Binary Search Tree Visualiser! We hope this app enhances your understanding and appreciation of BSTs. Download, explore the code, and feel free to contribute to make this educational tool even more powerful and accessible.
