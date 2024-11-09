@@ -29,7 +29,7 @@ With this tool, users can perform operations like insertion, deletion, and trave
 
 ## Download
 
-You can install the **Binary Search Tree Visualizer** on macOS. Download the **DMG file** [here](./path/to/your.dmg), compatible with macOS 10.14 (Mojave) and above.
+You can install the **Binary Search Tree Visualizer** on macOS. Download the **DMG file** [here](https://github.com/iteacher/bstvisualiser/releases/tag/v1.0.0), compatible with macOS 10.14 (Mojave) and above.
 
 ### Installation Instructions
 
