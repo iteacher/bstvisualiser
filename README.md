@@ -37,10 +37,10 @@ You can install the **Binary Search Tree Visualizer** on macOS. Download the **D
 
 1. **Download the DMG**: [Download here](https://github.com/iteacher/bstvisualiser/releases/tag/v1.0.1).
 2. After extracting the .dmg, use the following command in the terminal to bypass Gatekeeper as it is an unsigned app.
-`xattr -cr /path/to/your/downloaded/file.dmg` 
-3. **Open the DMG File**: Locate the downloaded file and double-click to open.
-4. **Drag to Applications**: Drag the app icon into the **Applications** folder to install.
-5. **Launch the App**: Open the app from your **Applications** folder.
+   `xattr -cr /path/to/your/downloaded/file.dmg` 
+4. **Open the DMG File**: Locate the downloaded file and double-click to open.
+5. **Drag to Applications**: Drag the app icon into the **Applications** folder to install.
+6. **Launch the App**: Open the app from your **Applications** folder.
 
 ---
 
