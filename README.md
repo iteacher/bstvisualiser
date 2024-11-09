@@ -33,7 +33,7 @@ You can install the **Binary Search Tree Visualizer** on macOS. Download the **D
 
 ### Installation Instructions
 
-1. **Download the DMG**: [Download here](./path/to/your.dmg).
+1. **Download the DMG**: [Download here](https://github.com/iteacher/bstvisualiser/releases/tag/v1.0.0).
 2. **Open the DMG File**: Locate the downloaded file and double-click to open.
 3. **Drag to Applications**: Drag the app icon into the **Applications** folder to install.
 4. **Launch the App**: Open the app from your **Applications** folder.
