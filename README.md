@@ -4,7 +4,7 @@ Date:  2024
 
 # Binary Search Tree Visualiser
 
-Live demo: Click here.
+Live demo: [Click here](https://iteacher.github.io/bstvisualiser/).
 
 ![Screenshot of BST](images/ScreenshotOfBST.jpg)
    
