@@ -4,7 +4,7 @@ Date:  2024
 
 # Binary Search Tree Visualiser
 
-Live demo:
+Live demo: Click here.
 
 ![Screenshot of BST](images/ScreenshotOfBST.jpg)
    
