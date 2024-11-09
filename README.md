@@ -31,14 +31,16 @@ With this tool, users can perform operations like insertion, deletion, and trave
 
 ## Download
 
-You can install the **Binary Search Tree Visualizer** on macOS. Download the **DMG file** [here](https://github.com/iteacher/bstvisualiser/releases/tag/v1.0.0), compatible with macOS 10.14 (Mojave) and above.
+You can install the **Binary Search Tree Visualizer** on macOS. Download the **DMG file** [here](https://github.com/iteacher/bstvisualiser/releases/tag/v1.0.1), compatible with macOS 10.14 (Mojave) and above.
 
 ### Installation Instructions
 
-1. **Download the DMG**: [Download here](https://github.com/iteacher/bstvisualiser/releases/tag/v1.0.0).
-2. **Open the DMG File**: Locate the downloaded file and double-click to open.
-3. **Drag to Applications**: Drag the app icon into the **Applications** folder to install.
-4. **Launch the App**: Open the app from your **Applications** folder.
+1. **Download the DMG**: [Download here](https://github.com/iteacher/bstvisualiser/releases/tag/v1.0.1).
+2. After extracting the .dmg, use the following command in the terminal to bypass Gatekeeper as it is an unsigned app.
+`xattr -cr /path/to/your/downloaded/file.dmg` 
+3. **Open the DMG File**: Locate the downloaded file and double-click to open.
+4. **Drag to Applications**: Drag the app icon into the **Applications** folder to install.
+5. **Launch the App**: Open the app from your **Applications** folder.
 
 ---
 
